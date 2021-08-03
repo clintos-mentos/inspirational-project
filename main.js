@@ -82,3 +82,6 @@ const inspirationalPeople = () => {
 
 // caling function
 inspirationalPeople();
+
+// test area 
+//where the fuck is my code on github???
